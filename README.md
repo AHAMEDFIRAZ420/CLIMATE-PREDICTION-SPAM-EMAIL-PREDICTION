@@ -25,6 +25,7 @@ What I Learned: The importance of cleaning data (removing stop words and punctua
 
 
 How I Built It
+
 I kept the stack lean and effective:
 
 Python: The backbone of both scripts.
